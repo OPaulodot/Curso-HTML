@@ -1,0 +1,59 @@
+---------------------------------------------------------------------------
+HTML (Hypertext Markup Language) é uma linguagem de marcação de textos. Hipertexto. 
+CSS é uma tecnologia de estilos para sites.
+
+---------------------------------------------------------------------------
+Aula 01-02
+
+ENDEREÇOS IMPORTANTES:
+github.com/gustavoguanabara
+gustavoguanabara.github.io
+
+----------------------------------------------------------------------------
+Aula 03
+
+BIBLIOGRAFIA RECOMENDADA:
+
+ONLINE
+Referência MDN - Mozilla Developer Network
+W3C Standards - World Wide Web Consortium
+WHATWG Living Standard - Web Hypertext Application Technology Working Group
+W3Schools = Refsnes Data
+
+LIVROS
+HTML5: Entendendo e Executando - Mark Pilgrim : O'Reilly
+HTML5 e CSS3 - Elizabeth Castro e Bruce Hyslop : Alta Books
+CSS -  Eric Meyer : O'Reilly
+
+-----------------------------------------------------------------------------
+Aula 04
+
+Leitura do PDF 1 : História da internet. (tudo sobre os conceitos abaixo)
+
+TCP/IP - Pilha de protocolos entre computadores em rede. Substituiu o antigo protocolo NCP, que já não dava mais conta de interligar os computadores na época.
+HTTP - Protocolo criado por Tim Berners-Lee, ele também foi criador do HTML e a World Wide Web.
+WWW - Rede que engloba os servidores HTTP, conjunto de servidores que englobam HTTP.
+Internet -
+
+EXERCÍCIOS:
+
+1- A internet surgiu durante a Guerra Fria, a disputa tecnologica entre os Estados Unidos e a União Soviética foram o estopim para o surgimento da internet que conhecemos hoje.
+
+2- ARPANET é o nome da primeira rede criada pela agência militar DARPA, em meados de 1940
+
+3-  1969 - LOGIN
+
+4- 4 computadores
+
+5- O primeiro protocolo de transmissão de dados era o NCP, que depois foi substituído pelo TCP
+
+6- 1983 - Flag day
+
+7- 
+
+8- A linguagem HTML, o protocolo HTTP e o nome World Wide Web.
+
+9- 
+
+10- 26 estados, além do DF.
+

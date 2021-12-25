@@ -1,0 +1,44 @@
+HTML é uma linguagem focada em CONTEÚDO (texto, imagem, vídeo, tabela, listas, etc).
+CSS são folhas de estilo para fazer o DESIGN de uma página (cores, sombras, tamanhos, posicionamentos, etc).
+JAVASCRIPT é uma linguagem de programação que permite as INTERAÇÕES do site (menus, animações, popups, validações, etc).
+
+Esse conjunto é primordial para a feitura de sites.
+
+------------------------------------------------------------------------------------------------------------------------
+Conteúdo em HTML
+
+<h1> Exemplo de Título </h1> --> Coloca um título no conteúdo da página
+
+<p> Exemplo de parágrafo </p> --> Inicia um parágrafo no conteúdo da página.
+
+<img src="foto.png" alt="Exemplo de foto"> --> "img" é a abertura da tag, "src" (source, origem do arquivo) e "alt" (alternative, texto alternativo, caso a imagem não apareça) são parâmetros.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Estilo em CSS
+
+O estilo, normalmente, estará dentro de uma tag <style> e utiliza seletores. Exemplos:
+
+h1 {
+	font-family: Arial;
+	font-size: 20pt;
+	color: blue;
+   }
+
+O que está sendo dito acima é: O título da página deve estar na fonte Arial, tamanho 20, cor azul.
+Toda declaração em CSS deve terminar com ponto e vírgula.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Estrutura básica de documento HTML
+
+<!DOCTYPE html5> (o documento está escrito em HTML 5)
+<html lang="pt-br"> (a língua do documento será o português do Brasil)
+   <head> (é onde coloca-se as configurações da página)
+	<meta charset="UTF-8"> (conjunto de caracteres que vão ser utilizados. UTF-8 tem "ç" e acentos)
+	<meta name="viewport"
+	content="width=device-width, (aqui está dito que o html ocupará toda a tela do dispositivo)
+	initial-scale=1.0"> (a escala do documento)
+	<title>Document</title> (O nome que vai aparecer na aba do navegador)
+   </head>
+   
+   <body> (conteúdo da página)
+   </body>

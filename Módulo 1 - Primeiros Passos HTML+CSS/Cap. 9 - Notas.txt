@@ -1,0 +1,17 @@
+Tipos de rel:
+
+external: site externo
+next: próxima página
+prev: página anterior
+nofollow: não dá aval para esse conteúdo
+self: abrir na própria aba
+
+-------------------------------------------------------------------------------------
+Quando o link se encontra em outra pasta, você deve especificar o caminho:
+
+ex :pasta/pag03.html
+
+Quando quiser retornar uma pasta, utilize o comando (../)
+
+../index.html
+----------------------------------------------------------------------------

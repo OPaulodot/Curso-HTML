@@ -1,0 +1,9 @@
+Tags
+
+<h1></h> (header type 1) = Título da página
+<p> (paragraph) = parágrafo
+<hr> (horizontal row) = linha horizontal
+<br> quebra a linha
+&lt; &gt; = caracteres "<" e ">", respectivamente. útil para não criar tags indesejáveis. 
+(PDF 5 para ver mais símbolos HTML Entities)
+&#x(ID do emoji); = Colocar emojis no código. Composto de &(indica que é um símbolo), #x (número hexadecimal).
